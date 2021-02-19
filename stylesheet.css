@@ -1,8 +1,0 @@
-img {
-width: 500px;
-filter: contrast(110%) saturate(130%) hue-rotate(-30deg);
-}
-
-body {
-  background-color: gray;
-}
