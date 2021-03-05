@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gerdas geile Gurkensuppe
+title: Giselas geile Gurkensuppe
 postHero: /images/large/slide1.jpg
 author: Gerda
 authorTwitter: https://twitter.com/gerda
